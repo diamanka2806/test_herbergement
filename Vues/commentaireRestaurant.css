@@ -1,0 +1,13 @@
+ button {
+    background-color: rgb(105,105,190);
+    border-radius: 5px;
+    border: 1px double #CCCCCC;
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+    color: white;
+    width: 200px;
+
+    
+} 
+

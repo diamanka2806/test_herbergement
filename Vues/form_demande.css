@@ -1,0 +1,38 @@
+body{
+    /*background: linear-gradient(100deg,#ccccff,#ffcccc);*/
+    text-align: center;
+    font-family: 'arial black';
+    color:black;
+    font-weight: bold;
+}
+
+label
+{
+    font-size: 20px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+input.input
+{
+    width: 220px;
+    height: 25px;
+    background-color: ghostwhite;
+    text-align: center;
+}
+ul{
+    margin-top: 40px;
+}
+#connect input
+{
+    margin-right: 40px;
+    color: white;
+    width: 120px;
+    height: 40px;
+}
+
+ul li
+{
+    display: inline-block;
+    margin-right: 60px;
+    margin-left: 60px;
+    text-align: left;
+}

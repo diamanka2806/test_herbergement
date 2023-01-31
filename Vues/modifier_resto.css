@@ -1,0 +1,12 @@
+body {
+    
+    
+    padding: 50px;
+}
+h2 {
+    border: 1px solid black;
+   border-radius: 60px;
+   background-color:rgb(105, 105, 190) ; 
+    /* font-weight: bold; */
+    text-align: center;
+}
